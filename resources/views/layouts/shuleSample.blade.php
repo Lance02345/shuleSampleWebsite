@@ -49,7 +49,7 @@
 						<a class="nav-link" href="{{ route('contact')}}">Contact</a>
 					</li> 
                <li class="dropdown">
-                <a href="#" data-toggle="dropdown" class="dropdown-toggle">Login</a>
+                <a href="#" data-toggle="dropdown" class="dropdown-toggle">School Portal</a>
                 <ul class="dropdown-menu">
                   <li><a href="https://kenyademoschool.schooltry.com/admin/home">Admin/Subadmin</a></li>
                   <li><a href="https://kenyademoschool.schooltry.com/teacher/login">Teacher</a></li>
