@@ -57,7 +57,7 @@
         </div>
       </section>
 
-      <section class="probootstrap-section" id="probootstrap-counter">
+      <section class="probootstrap-section" id="probootstrap-counter" style="padding-top:30px;">
         <div class="container">
           
           <div class="row">
@@ -135,7 +135,7 @@
         </div>
       </section>
 
-      <section class="probootstrap-section probootstrap-section">
+      <section class="probootstrap-section probootstrap-section" style="padding-top:30px;">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -214,7 +214,7 @@
                             <div class="probootstrap-text">
                               <h3>AGM coming up!</h3>
                               <span class="probootstrap-date"><i class="icon-calendar"></i>June 19, 2024</span>
-                              <span class="probootstrap-location"><i class="icon-location2"></i>White Palace, Brooklyn, NYC</span>
+                              <span class="probootstrap-location"><i class="icon-location2"></i>Ongata Rongai, School PlayGround</span>
                             </div>
                           </a>
                         </div>
@@ -225,7 +225,7 @@
                             <div class="probootstrap-text">
                               <h3>Term 1 coming to an end</h3>
                               <span class="probootstrap-date"><i class="icon-calendar"></i> April 19, 2024</span>
-                              <span class="probootstrap-location"><i class="icon-location2"></i>White Palace, Brooklyn, NYC</span>
+                              <span class="probootstrap-location"><i class="icon-location2"></i>Ongata Rongai, School PlayGround</span>
                             </div>
                           </a>
                         </div>
@@ -236,7 +236,7 @@
                             <div class="probootstrap-text">
                               <h3>Candidates parents meeting</h3>
                               <span class="probootstrap-date"><i class="icon-calendar"></i>Augast 19, 2023</span>
-                              <span class="probootstrap-location"><i class="icon-location2"></i>White Palace, Brooklyn, NYC</span>
+                              <span class="probootstrap-location"><i class="icon-location2"></i>Ongata Rongai, School PlayGround</span>
                             </div>
                           </a>
                         </div>
@@ -247,7 +247,7 @@
                             <div class="probootstrap-text">
                               <h3>Sports Day Coming Up</h3>
                               <span class="probootstrap-date"><i class="icon-calendar"></i>May 19, 2023</span>
-                              <span class="probootstrap-location"><i class="icon-location2"></i>White Palace, Brooklyn, NYC</span>
+                              <span class="probootstrap-location"><i class="icon-location2"></i>Ongata Rongai, School PlayGround</span>
                             </div>
                           </a>
                         </div>
@@ -269,7 +269,7 @@
         </div>
       </section>
 
-      <section class="probootstrap-section probootstrap-bg-white probootstrap-border-top">
+      <section class="probootstrap-section probootstrap-bg-white probootstrap-border-top" style="padding-bottom:30px;">
         <div class="container">
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
@@ -318,7 +318,7 @@
 
       
       
-      <section class="probootstrap-section">
+      <section class="probootstrap-section" style="padding-top:10px;">
         <div class="container">
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">

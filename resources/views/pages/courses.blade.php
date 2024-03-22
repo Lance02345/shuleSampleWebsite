@@ -12,7 +12,7 @@
         </div>
       </section>
 
-      <section class="probootstrap-section">
+      <section class="probootstrap-section" style="padding-bottom:20px;">
         <div class="container">
           <div class="row">
             <div class="col-md-12">
@@ -32,7 +32,7 @@
         </div>
       </section>
 
-      <section class="probootstrap-section">
+      <section class="probootstrap-section" style="padding-top:20px">
         <div class="container">
           <div class="row">
             <div class="col-md-6">
