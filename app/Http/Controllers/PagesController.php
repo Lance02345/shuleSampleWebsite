@@ -1,13 +1,15 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Models\News;
 use Illuminate\Http\Request;
 
 class PagesController extends Controller
 {
-    public function index(){
-        return view('pages.index');
+    public function index()
+    {
+        $news = News::all(); // Assuming you have a News model
+        return view('pages.index', compact('news'));
     }
 
     public function courses(){
