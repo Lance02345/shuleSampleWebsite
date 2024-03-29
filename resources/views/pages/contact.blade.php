@@ -17,7 +17,7 @@
               <div class="probootstrap-flex-block">
                 <div class="probootstrap-text probootstrap-animate">
                   <div class="text-uppercase probootstrap-uppercase">History</div>
-                  <h3>Take A Look at How We Begin</h3>
+                  <h3>Take A Look at How We Began</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis explicabo veniam labore ratione illo vero voluptate a deserunt incidunt odio aliquam commodi blanditiis voluptas error non rerum temporibus optio accusantium!</p>
                   <p><a href="#" class="btn btn-primary">Learn More</a></p>
                 </div>
@@ -39,7 +39,7 @@
             </p>
           </div>
           <div class="col-md-6 col-md-push-1">
-            <h2>We are a Rongai based School focused on excellence.</h2>
+            <h2>We are a Rongai-based School focused on excellence.</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis explicabo veniam labore ratione illo vero voluptate a deserunt incidunt odio aliquam commodi blanditiis voluptas error non rerum temporibus optio accusantium!</p>
           </div>
           

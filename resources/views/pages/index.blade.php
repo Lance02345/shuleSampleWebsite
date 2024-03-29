@@ -3,23 +3,24 @@
 <body>
       <section class="flexslider">
         <ul class="slides">
-          <li style="background-image: url(img/ws.jpg)" class="overlay">
+          <li style="background-image: url(img/hero7.jpg)" class="overlay">
             <div class="container">
               <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                   <div class="probootstrap-slider-text text-center">
-                    <h1 class="probootstrap-heading probootstrap-animate">Your Child's Future is Our Mission</h1>
+                  <h1 class="probootstrap-heading probootstrap-animate" style="font-weight: bold;">Your Child's Future is Our Mission</h1>
                   </div>
                 </div>
               </div>
             </div>
           </li>
-          <li style="background-image: url(img/df.jpeg)" class="overlay">
+          <li style="background-image: url(img/hero07.jpg)" class="overlay">
             <div class="container">
               <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                   <div class="probootstrap-slider-text text-center">
-                    <h1 class="probootstrap-heading probootstrap-animate">Helping Each of Our Students Fulfill the Potential</h1>
+                    <h1 class="probootstrap-heading probootstrap-animate" style="font-weight: bold;">Helping Each of Our Students Fulfill the Potential</h1>
+
                   </div>
                 </div>
               </div>
@@ -133,7 +134,7 @@
               <div class="probootstrap-service-2 probootstrap-animate">
                 <div class="image">
                   <div class="image-bg">
-                    <img src="img/eng.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
+                    <img src="img/English-language.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
                   </div>
                 </div>
                 <div class="text">
@@ -149,7 +150,7 @@
               <div class="probootstrap-service-2 probootstrap-animate">
                 <div class="image">
                   <div class="image-bg">
-                    <img src="img/mathsclass.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
+                    <img src="img/matgs.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
                   </div>
                 </div>
                 <div class="text">
