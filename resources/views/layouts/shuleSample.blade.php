@@ -6,11 +6,12 @@
     <meta name="description" content="Free Bootstrap Theme by ProBootstrap.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700|Open+Sans" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles-merged.css">
-    <link rel="stylesheet" href="css/style.min.css">
-    <link rel="stylesheet" href="css/custom.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-    <script src="https://cdn.ckeditor.com/ckeditor5/37.0.1/classic/ckeditor.js"></script>
+<link rel="stylesheet" href="{{ asset('css/styles-merged.css') }}">
+<link rel="stylesheet" href="{{ asset('css/style.min.css') }}">
+<link rel="stylesheet" href="{{ asset('css/custom.css') }}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+<script src="https://cdn.ckeditor.com/ckeditor5/37.0.1/classic/ckeditor.js"></script>
+
 
 
 
@@ -128,6 +129,7 @@
     <!-- END wrapper -->
     
 
-    <script src="js/scripts.min.js"></script>
-    <script src="js/main.min.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="{{ asset('js/scripts.min.js') }}"></script>
+<script src="{{ asset('js/main.min.js') }}"></script>
+<script src="{{ asset('js/custom.js') }}"></script>
+

@@ -31,6 +31,7 @@
 
 
       <script src="https://cdn.ckeditor.com/4.16.2/standard/ckeditor.js"></script>
+      <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-AAAAAAAAAA7+AAA7WkwgfH5Ivz7/4NBEcggHHBrU9F/ETy8C/vC8+rmZyxKgP8pWnx" crossorigin="anonymous">
 
@@ -66,11 +67,11 @@
                <div class="sidebar_blog_2">
                   <h4>General</h4>
                   <ul class="list-unstyled components">
-                  <li><a href="{{ route('home')}}"><i class="fa fa-dashboard yellow_color"></i> <span>Dashboard</span></a></li>
+                  <li><a href="{{ route('home')}}"><i class="fa fa-dashboard"></i> <span>Dashboard</span></a></li>
 
                   <li><a href="{{ route('news.upload')}}"><i class="fa fa-upload"></i> <span>Upload News Article</span></a></li>
 
-                  <li><a href="{{ route('news.upload')}}"><i class="fa fa-clock-o orange_color"></i> <span>Widgets</span></a></li>
+                  <li><a href="{{ route('teachers.create')}}"><i class="fa fa-user-plus"></i> <span>Add Teacher</span></a></li>
 
                   <li><a href="{{ route('news.upload')}}"><i class="fa fa-clock-o orange_color"></i> <span>Widgets</span></a></li>
 
@@ -99,8 +100,6 @@
                                     <a class="dropdown-toggle" data-toggle="dropdown"><img class="img-responsive rounded-circle" src="{{ asset('admin/images/layout_img/user_img.jpg') }}" alt="#" /><span class="name_user">{{ Auth::user()->name }}</span></a>
                                     <div class="dropdown-menu">
                                        <a class="dropdown-item" href="profile.html">My Profile</a>
-                                       <a class="dropdown-item" href="settings.html">Settings</a>
-                                       <a class="dropdown-item" href="help.html">Help</a>
                                        <div>
     <a class="dropdown-item" href="#" onclick="document.getElementById('logout-form').submit();">
         <span>Log Out</span> <i class="fa fa-sign-out"></i>
