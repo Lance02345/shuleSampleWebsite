@@ -124,8 +124,8 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6 col-md-offset-3 text-center section-heading probootstrap-animate">
-              <h2>Our Featured Courses</h2>
-              <p class="lead">Most common subjects in the school</p>
+              <h2>Our Featured Co-Curricular activities</h2>
+              <p class="lead">Most common co-curricular activies in the school</p>
             </div>
           </div>
           <!-- END row -->
@@ -141,7 +141,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 5, 2024</span>
                   <h3>English Activities</h3>
                   <p>English is more than just words on a page; it's the bridge between cultures, the tool of expression, and the key to unlocking endless worlds of imagination.</p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">900 students enrolled</span></p>
+                  <p><span class="enrolled-count">900 students enrolled</span></p>
                 </div>
               </div>
 </div>
@@ -157,7 +157,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 5, 2024</span>
                   <h3>Mathematical Activities</h3>
                   <p>Mathematics is the language of patterns, the logic of shape, and the foundation of countless discoveries. Mostly liked by grade 3 students </p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">900 students enrolled</span></p>
+                  <p><span class="enrolled-count">900 students enrolled</span></p>
                 </div>
               </div>
 
@@ -268,7 +268,7 @@
 
                   <div class="probootstrap-testimony-wrap text-center">
                     <figure>
-                      <img src="img/person_1.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
+                      <img src="img/person_1.jpg" alt="Alumni">
                     </figure>
                     <blockquote class="quote">&ldquo;As an alumni of Enlight School, I am forever grateful for the foundation of knowledge, values, and friendships that were cultivated during my time there. The nurturing environment and dedicated educators at Enlight School instilled in me a love for learning, resilience in the face of challenges, and a sense of community that continues to shape my journey today. &rdquo; <cite class="author"> &mdash; <span>Mike Fisher</span></cite></blockquote>
                   </div>
@@ -277,7 +277,7 @@
                 <div class="item">
                   <div class="probootstrap-testimony-wrap text-center">
                     <figure>
-                      <img src="img/person_2.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
+                      <img src="img/person_2.jpg" alt="Alumni">
                     </figure>
                     <blockquote class="quote">&ldquo;My years at Enlight School were more than just classrooms and textbooks; they were the building blocks of my character and aspirations. The supportive teachers, enriching experiences, and lifelong friendships I forged at [Primary School Name] laid the groundwork for my academic and personal growth.&rdquo; <cite class="author"> &mdash;<span>Jorge Smith</span></cite></blockquote>
                   </div>
@@ -285,7 +285,7 @@
                 <div class="item">
                   <div class="probootstrap-testimony-wrap text-center">
                     <figure>
-                      <img src="img/person_3.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
+                      <img src="img/person_3.jpg" alt="Alumni">
                     </figure>
                     <blockquote class="quote">&ldquo;Reflecting on my journey from Enlight School, I am reminded of the invaluable lessons and cherished memories that have shaped who I am today. The caring mentors, vibrant learning environment, and diverse opportunities provided by Enlight School ignited my passion for knowledge and instilled within me a sense of purpose.&rdquo; <cite class="author">&mdash; <span>Brandon White</span></cite></blockquote>
                   </div>
