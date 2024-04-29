@@ -21,7 +21,7 @@
                   <div class="text-uppercase probootstrap-uppercase">Featured </div>
                   <h3>Swimming Classes</h3>
                   <p>Dive into the joy of swimming with our expert-led classes. Whether you're a beginner learning the basics or an experienced swimmer refining your technique, our classes offer personalized instruction in a supportive environment. Join us and make a splash towards confidence and safety in the water!</p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">200 students enrolled</span></p>
+                  <p>  <span class="enrolled-count">200 students enrolled</span></p>
                 </div>
                 <div class="probootstrap-image probootstrap-animate" style="background-image: url(img/swimming.jpg)">
                   <a href="https://vimeo.com/45830194" class="btn-video popup-vimeo"><i class="icon-play3"></i></a>
@@ -46,7 +46,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 22, 2024</span>
                   <h3>Debates</h3>
                   <p>Step into the arena of ideas with our dynamic debate classes. Explore critical thinking, persuasive communication in a vibrant environment. </p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">200 students enrolled</span></p>
+                  <p>  <span class="enrolled-count">200 students enrolled</span></p>
                 </div>
               </div>
 
@@ -60,7 +60,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 22, 2024</span>
                   <h3>Dance</h3>
                   <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">70 students enrolled</span></p>
+                  <p>  <span class="enrolled-count">70 students enrolled</span></p>
                 </div>
               </div>
 
@@ -76,7 +76,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 22, 2024</span>
                   <h3>Drama</h3>
                   <p>Unleash your creativity on stage with our drama classes. Dive into the world of storytelling, character development, and performance techniques</p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">340 students enrolled</span></p>
+                  <p>  <span class="enrolled-count">340 students enrolled</span></p>
                 </div>
               </div>
 
@@ -90,7 +90,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 22, 2024</span>
                   <h3>Karate</h3>
                   <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">582 students enrolled</span></p>
+                  <p>  <span class="enrolled-count">582 students enrolled</span></p>
                 </div>
               </div>
 
@@ -109,7 +109,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 22, 2024</span>
                   <h3>Story Telling</h3>
                   <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">98 students enrolled</span></p>
+                  <p>  <span class="enrolled-count">98 students enrolled</span></p>
                 </div>
               </div>
 
@@ -125,7 +125,7 @@
                   <span class="probootstrap-meta"><i class="icon-calendar2"></i> January 22, 2024</span>
                   <h3>Clay Modelling</h3>
                   <p>Laboriosam pariatur modi praesentium deleniti molestiae officiis atque numquam quos quis nisi voluptatum architecto rerum error.</p>
-                  <p><a href="#" class="btn btn-primary">Enroll now</a> <span class="enrolled-count">582 students enrolled</span></p>
+                  <p>  <span class="enrolled-count">582 students enrolled</span></p>
                 </div>
               </div>
 

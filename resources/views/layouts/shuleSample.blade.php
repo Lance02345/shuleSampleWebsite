@@ -32,6 +32,15 @@
     font-weight: bold; /* For example, making the font bold */
     color: #007bff; /* For example, changing the text color to blue */
 }
+.probootstrap-navbar .navbar-brand {
+  position: relative;
+  width: 160px;
+  height: 53px;
+  background: url('img/pnglog.png') no-repeat; /* Adjusted background image */
+  background-position: center; /* Center the background image */
+  background-size: contain; /* Ensure the background image fits within the container */
+}
+
 </style>
   <body>
 
