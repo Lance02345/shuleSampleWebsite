@@ -13,7 +13,7 @@
       <meta name="description" content="">
       <meta name="author" content="">
       <!-- site icon -->
-      <link rel="icon" href="{{ asset('img/logo2.png') }}" type="image/png" />
+      <link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/pnglog.png') }}">
 <!-- bootstrap css -->
 <link rel="stylesheet" href="{{ asset('admin/css/bootstrap.min.css') }}" />
 <!-- site css -->

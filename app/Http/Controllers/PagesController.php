@@ -9,8 +9,9 @@ class PagesController extends Controller
 {
     public function index()
     {
-        $news = News::all(); // Assuming you have a News model
-        return view('pages.index', compact('news'));
+        $news = News::all(); 
+        $teachers = Teacher::all();
+        return view('pages.index', compact('news', 'teachers'));
     }
 
     public function courses(){
